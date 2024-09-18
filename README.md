@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I am a web developer with a focus on building high-quality, user-centered web applications. Proficient in modern frontend and backend technologies, I am always eager to collaborate, solve complex problems, and continuously learn new tools and frameworks to improve my craft.
+### <div align="center">Hello ,I am a web developer with a focus on building high-quality, user-centered web applications.
 
 </div>  
   
