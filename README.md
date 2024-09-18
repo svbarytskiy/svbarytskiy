@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">Hello ,I am a web developer with a focus on building high-quality, user-centered web applications.
+### <div align="left">Hello ,I am a web developer with a focus on building high-quality, user-centered web applications.
 
 </div>  
   
